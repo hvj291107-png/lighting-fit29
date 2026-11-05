@@ -1,0 +1,6 @@
+{
+  "name": "Lightning Fits",
+  "description": "Premium calisthenics fitness application with Stage 01 progression, workout tracking, interactive timers, performance rank system, and routine customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
